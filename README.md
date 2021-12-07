@@ -9,4 +9,4 @@ Course outline:
 3. Advanced compartmental models
 4. Individual/Agen-based modelling.
 
-This file will sone be updated with detailes over the programme and scripts.
+This file will soon be updated with detailes over the programme and scripts.
